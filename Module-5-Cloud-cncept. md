@@ -1,0 +1,109 @@
+# ☁️ AWS Cloud Practitioner Essentials - Day 5
+
+**Date:** July 2026
+
+---
+
+# 📚 Topics Covered
+
+- Amazon RDS
+- Amazon DynamoDB
+- Amazon Aurora
+- AWS Networking Basics
+
+---
+
+# 🗄️ Amazon RDS
+
+Amazon Relational Database Service (RDS) is a managed service that makes it easier to set up, operate, and scale relational databases.
+
+### Key Features
+
+- Managed by AWS
+- Automatic backups
+- High availability
+- Easy scaling
+
+### 📝 My Notes
+
+RDS allows me to use databases like MySQL or PostgreSQL without managing the server myself. AWS handles maintenance tasks such as backups and software updates.
+
+---
+
+# ⚡ Amazon DynamoDB
+
+Amazon DynamoDB is a fully managed NoSQL database service.
+
+### Key Features
+
+- Fast performance
+- Serverless
+- Automatically scales
+- High availability
+
+### 📝 My Notes
+
+DynamoDB is useful for applications that need very fast responses, such as gaming apps, shopping carts, and mobile applications.
+
+---
+
+# 🚀 Amazon Aurora
+
+Amazon Aurora is a high-performance relational database compatible with MySQL and PostgreSQL.
+
+### Key Features
+
+- Faster than standard MySQL
+- Highly available
+- Managed by AWS
+
+### 📝 My Notes
+
+Aurora offers the familiarity of MySQL or PostgreSQL while providing improved speed and reliability.
+
+---
+
+# 🌐 AWS Networking Basics
+
+AWS networking allows cloud resources to communicate securely.
+
+### Key Concepts
+
+- IP addresses
+- Routing
+- Secure communication
+- Connectivity between AWS resources
+
+### 📝 My Notes
+
+Networking is the foundation that allows AWS services to communicate with each other while remaining secure.
+
+---
+
+# 💡 Key Takeaways
+
+- RDS simplifies database management.
+- DynamoDB is designed for high-speed NoSQL workloads.
+- Aurora provides better performance than traditional relational databases.
+- Good networking is essential for secure cloud applications.
+
+---
+
+# 🤔 Questions for Review
+
+- When should I use RDS instead of DynamoDB?
+- Why would a company choose Aurora?
+- How does AWS keep databases highly available?
+
+---
+
+# 🚀 Progress
+
+- [x] Completed Day 5
+- [ ] Review today's notes
+- [ ] Continue to Day 6
+
+
+## Reflection
+
+Today I learned the differences between AWS database services. I now understand that RDS is for relational databases, while DynamoDB is a NoSQL database designed for high-performance applications. I want to explore these services further by creating small hands-on projects.
